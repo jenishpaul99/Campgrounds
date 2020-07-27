@@ -1,0 +1,12 @@
+.thumbnail img {
+    width: 100%;
+    height: 450px;
+}
+
+.caption-full {
+    padding: 9px;
+}
+
+.inline-btn {
+    display: inline;
+}
